@@ -691,7 +691,7 @@ You can also control how local data is deleted if your machine's local storage b
 
 {{< /expand >}}
 
-## Stop data capture
+## Stop data capture and data sync
 
 If this is a test project, make sure you stop data capture to avoid charges for a large amount of unwanted data.
 
